@@ -42,7 +42,7 @@ Here are some of my favorite repositories. Feel free to explore them!
 I'm always open to collaboration and new opportunities. If you're interested in working together or just want to chat about robotics and tech, feel free to reach out:
 
 - 📫 Email: [giovannirosato1@gmail.com](mailto:giovannirosato1@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/giovanni-rosato-6284bb161/)
+- 🌐 LinkedIn: [linkedin.com/GiovanniRosato](https://www.linkedin.com/in/giovanni-rosato-6284bb161/)
 
 Thanks for stopping by! Happy coding! 🚀
 
