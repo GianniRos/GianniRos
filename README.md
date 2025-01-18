@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Giovanni Rosato
 
 Hi there! 👋 I'm a passionate software developer with a strong focus on robotics, computer vision, and real-time systems. I enjoy solving complex problems and building innovative solutions for cutting-edge applications.
 
@@ -16,17 +16,6 @@ Hi there! 👋 I'm a passionate software developer with a strong focus on roboti
 ## Highlighted Projects
 
 Here are some of my favorite repositories. Feel free to explore them!
-
-### [SLAM for Quadruped Robots](https://github.com/example/slam-quadruped)
-- Developed a SLAM framework tailored for the HyQReal quadruped robot.
-- Utilized a Velodyne 16 LiDAR for precise mapping and localization.
-- Implemented in ROS2 with real-time capabilities.
-
-### [ROV GUI with Vision System](https://github.com/example/rov-gui)
-- Built a Qt-based GUI for controlling a remotely operated vehicle.
-- Implemented vision features like object measurement and shape recognition.
-- Created for the MATE ROV Competition 2019 as part of a university project.
-
 ### [VR Robotics Simulation](https://github.com/example/vr-robotics)
 - Developed a Unity-based VR simulation for robot teleoperation.
 - Designed to work with Meta Quest 3, providing immersive robot control.
@@ -36,6 +25,19 @@ Here are some of my favorite repositories. Feel free to explore them!
 - Created a robust video streaming solution using WebRTC.
 - Integrated signaling servers for efficient peer-to-peer communication.
 - Optimized for low latency and high resolution.
+  
+---
+### [MasterThesis project - SLAM for Quadruped Robots](https://github.com/example/slam-quadruped)
+- Developed a SLAM framework tailored for the HyQReal quadruped robot.
+- Utilized a Velodyne 16 LiDAR for precise mapping and localization.
+- Implemented in ROS2 with real-time capabilities.
+---
+### [University Team Project - ROV GUI with Vision System](https://github.com/example/rov-gui)
+- Built a Qt-based GUI for controlling a remotely operated vehicle.
+- Implemented vision features like object measurement and shape recognition.
+- Created for the MATE ROV Competition 2019 as part of a university project.
+
+
 
 ## Get in Touch
 
