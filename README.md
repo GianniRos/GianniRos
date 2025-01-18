@@ -17,6 +17,9 @@ Hi there! 👋 I'm a passionate software developer with a strong focus on roboti
 
 Here are some of my favorite repositories and contributions. Feel free to explore them!
 
+### [AI based task planner with conversational capabilities](https://github.com/MissingSignal/Eurobin-Coopetition.git)
+- This repository contains the modules developed for Eurobin Coopetition in Nancy in November 2024 where we got the 1st place.
+  
 ### [Alterego Real Robot and Gazebo](https://github.com/NMMI/AlterEgo)
 - This repository contains the open source software of AlterEGO that run the real robot and its simulator based on Gazebo ROS Noetic
   
