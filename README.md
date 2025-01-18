@@ -15,7 +15,14 @@ Hi there! 👋 I'm a passionate software developer with a strong focus on roboti
 
 ## Highlighted Projects
 
-Here are some of my favorite repositories. Feel free to explore them!
+Here are some of my favorite repositories and contributions. Feel free to explore them!
+
+### [Alterego Real Robot and Gazebo](https://github.com/NMMI/AlterEgo)
+- This repository contains the open source software of AlterEGO that run the real robot and its simulator based on Gazebo ROS Noetic
+- 
+### [SoftHand Gazebo](https://github.com/NMMI/SoftHand-Plugin)
+- Gazebo digital twin of the QBRobotics v1.2 and IIT SoftHandWide and IIT SoftHand_V3
+- 
 ### [VR Robotics Simulation](https://github.com/example/vr-robotics)
 - Developed a Unity-based VR simulation for robot teleoperation.
 - Designed to work with Meta Quest 3, providing immersive robot control.
