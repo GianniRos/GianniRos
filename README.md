@@ -29,7 +29,7 @@ Here are some of my favorite repositories and contributions. Feel free to explor
 - Includes real-time telemetry visualization and interaction.
 
 ### [Alterego Navigation](https://github.com/IIT-SoftBots/alterego_navigation.git)
-- Created a robust 2D SLAM 
+- Created a robust 2D SLAM for Alterego robot 
   
 ---
 ### [MasterThesis project - SLAM for Quadruped Robots](https://github.com/GianniRos/master_thesis_3Dslam.git)
