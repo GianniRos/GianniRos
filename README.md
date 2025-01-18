@@ -32,12 +32,12 @@ Here are some of my favorite repositories and contributions. Feel free to explor
 - Created a robust 2D SLAM 
   
 ---
-### [MasterThesis project - SLAM for Quadruped Robots](https://github.com/example/slam-quadruped)
+### [MasterThesis project - SLAM for Quadruped Robots](https://github.com/GianniRos/master_thesis_3Dslam.git)
 - Developed a SLAM framework tailored for the HyQReal quadruped robot.
 - Utilized a Velodyne 16 LiDAR for precise mapping and localization.
-- Implemented in ROS2 with real-time capabilities.
+- Implemented in ROS with real-time capabilities.
 ---
-### [University Team Project - ROV GUI with Vision System](https://github.com/example/rov-gui)
+### [University Team Project - ROV GUI with Vision System](https://github.com/GianniRos/guiPoliTOcean.git)
 - Built a Qt-based GUI for controlling a remotely operated vehicle.
 - Implemented vision features like object measurement and shape recognition.
 - Created for the MATE ROV Competition 2019 as part of a university project.
