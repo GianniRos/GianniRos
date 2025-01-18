@@ -19,19 +19,17 @@ Here are some of my favorite repositories and contributions. Feel free to explor
 
 ### [Alterego Real Robot and Gazebo](https://github.com/NMMI/AlterEgo)
 - This repository contains the open source software of AlterEGO that run the real robot and its simulator based on Gazebo ROS Noetic
-- 
+  
 ### [SoftHand Gazebo](https://github.com/NMMI/SoftHand-Plugin)
 - Gazebo digital twin of the QBRobotics v1.2 and IIT SoftHandWide and IIT SoftHand_V3
-- 
+  
 ### [VR Robotics Simulation](https://github.com/example/vr-robotics)
 - Developed a Unity-based VR simulation for robot teleoperation.
 - Designed to work with Meta Quest 3, providing immersive robot control.
 - Includes real-time telemetry visualization and interaction.
 
-### [WebRTC Video Streaming](https://github.com/example/webrtc-streaming)
-- Created a robust video streaming solution using WebRTC.
-- Integrated signaling servers for efficient peer-to-peer communication.
-- Optimized for low latency and high resolution.
+### [Alterego Navigation](https://github.com/IIT-SoftBots/alterego_navigation.git)
+- Created a robust 2D SLAM 
   
 ---
 ### [MasterThesis project - SLAM for Quadruped Robots](https://github.com/example/slam-quadruped)
