@@ -10,7 +10,7 @@ Hi there! 👋 I'm a passionate software developer with a strong focus on roboti
   - Robotics control systems
   - Computer vision and image processing
   - Virtual reality (VR) development
-  - Real-time video streaming with WebRTC
+  - Real-time audio-video streaming 
 - 🌍 **Location**: Based in Italy, open to remote opportunities worldwide.
 
 ## Highlighted Projects
@@ -41,8 +41,8 @@ Here are some of my favorite repositories. Feel free to explore them!
 
 I'm always open to collaboration and new opportunities. If you're interested in working together or just want to chat about robotics and tech, feel free to reach out:
 
-- 📫 Email: [your.email@domain.com](mailto:your.email@domain.com)
-- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📫 Email: [giovannirosato1@gmail.com](mailto:giovannirosato1@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/giovanni-rosato-6284bb161/)
 
 Thanks for stopping by! Happy coding! 🚀
 
