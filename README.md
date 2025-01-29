@@ -26,7 +26,7 @@ Here are some of my favorite repositories and contributions. Feel free to explor
 ### [SoftHand Gazebo](https://github.com/NMMI/SoftHand-Plugin)
 - Gazebo digital twin of the QBRobotics v1.2 and IIT SoftHandWide and IIT SoftHand_V3
   
-### [VR Robotics Simulation](https://github.com/example/vr-robotics)
+### [UnitySoftbotsTeleopRelease](https://github.com/IIT-SoftBots/UnitySoftbotsTeleopRelease)
 - Developed a Unity-based VR simulation for robot teleoperation.
 - Designed to work with Meta Quest 3, providing immersive robot control.
 - Includes real-time telemetry visualization and interaction.
